@@ -16,7 +16,7 @@ export default function Footer() {
             <i class="fas fa-gem me-3"></i>restaurant
           </h6>
           © 2024 Copyright:
-          <a class="text-reset fw-bold p-0" href="http://127.0.0.1:8000/">New city restaurant</a>
+          <a class="text-reset fw-bold p-0" href="https://Abdelmajid-Sbai.github.io/New-City-restaurant">New city restaurant</a>
         </div>
         <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
           <h6 class="text-uppercase fw-bold mb-4">
@@ -51,10 +51,6 @@ export default function Footer() {
   
           <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
           <p><i class="fas fa-home me-3"></i> Tanger, NY 90000, Maroc</p>
-          <p>
-            <i class="fas fa-envelope me-3"></i>
-            https://Abdelmajid-Sbai.github.io/Sbai.Abdelmajid
-          </p>
           <p><i class="fas fa-phone me-3"></i> + 01 234 567 88</p>
           <p><i class="fas fa-print me-3"></i> + 01 234 567 89</p>
         </div>
