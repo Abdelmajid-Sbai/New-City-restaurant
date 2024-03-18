@@ -9,7 +9,7 @@ export default function Navbar() {
     return (
         <>
         <nav class="navbar container navbar-expand-lg navbar-dark mb-0 p-0">
-  <div class="container-fluid">
+  <div class="container-fluid ">
   <Link className="navbar-brand color-yel" to="/"><img  src={process.env.PUBLIC_URL+"/images/logo1.png"} alt="My Photo" className="logo"/></Link>
   
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation" onClick={toggleNavbar}>

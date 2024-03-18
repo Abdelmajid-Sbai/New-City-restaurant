@@ -36,6 +36,7 @@ h6{
     height: 650px;
     
     
+    
 }
 
 .Navbar{
@@ -49,14 +50,23 @@ h6{
     box-shadow: 0 8px 32px 0 rgba(0,0,0,0.37);
     padding: 10px;
     background-color: #ffe998;
+    
   
 }
+
 
 .nav-link{
     color: white;
 }
 .nav-link:hover{
     color: #ffe998;
+    background: linear-gradient(135deg,rgba(255,255,255,0.1),rgba(255,255,255,0));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 5px;
+    border: 1px solid rgba(255,255,255,0.18);
+    box-shadow: 0 8px 32px 0 rgba(0,0,0,0.37);
+    
 }
 
 
@@ -81,6 +91,25 @@ li{
     color: white;
     text-decoration: none;
     
+    
+    
+}
+
+.horizontal-line{
+    text-decoration:underline red;
+    border-bottom: 1px solid #ffb300; /* Change the color and width as needed */
+    width: 100%; 
+    padding: 5px;
+    text-decoration-style: none;
+    list-style-type: none;
+}
+
+.div-ul{
+    border-radius: 15px;
+}
+.titre{
+    list-style: none;
+    color: #ffb300;
 }
 ul{
     padding: 20px;
@@ -131,9 +160,14 @@ section{
   
   }
 
-.menu{
-    height: 450px;
-    
+
+.menu1{
+    background: linear-gradient(135deg,rgba(255,255,255,0.1),rgba(255,255,255,0));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border: 1px solid rgba(255,255,255,0.18);
+    box-shadow: 0 8px 32px 0 rgba(0,0,0,0.37);
 }
 .reserver{
     height: 450px;

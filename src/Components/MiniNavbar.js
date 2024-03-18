@@ -5,7 +5,7 @@ export default function MiniNavbar() {
         <>
       
             <div className="container row MiniNavbar navbar-dark   d-flex  ">
-                <div className="firstsection  col-lg-6 col-sm-12">
+                <div className="firstsection  col-lg-6 text-center col-sm-12">
                     <h6><span></span> Hotel Charf - 25 Rue al Farabi, 4 éme étage, Tangier, Morocco</h6>
                 </div>
                 <div className="secondsection row d-flex text-start   col-lg-6 col-sm-12">
