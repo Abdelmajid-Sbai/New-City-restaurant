@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/New-City-restaurant/static/css/main.5ce8f65a.css",
-    "main.js": "/New-City-restaurant/static/js/main.9306a0d4.js",
+    "main.css": "/New-City-restaurant/static/css/main.1af6d845.css",
+    "main.js": "/New-City-restaurant/static/js/main.0cf3e37b.js",
     "static/js/453.207c92a0.chunk.js": "/New-City-restaurant/static/js/453.207c92a0.chunk.js",
     "static/media/home8.jpg": "/New-City-restaurant/static/media/home8.ad43cd4fead0348d2557.jpg",
     "static/media/logo.svg": "/New-City-restaurant/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/New-City-restaurant/index.html",
-    "main.5ce8f65a.css.map": "/New-City-restaurant/static/css/main.5ce8f65a.css.map",
-    "main.9306a0d4.js.map": "/New-City-restaurant/static/js/main.9306a0d4.js.map",
+    "main.1af6d845.css.map": "/New-City-restaurant/static/css/main.1af6d845.css.map",
+    "main.0cf3e37b.js.map": "/New-City-restaurant/static/js/main.0cf3e37b.js.map",
     "453.207c92a0.chunk.js.map": "/New-City-restaurant/static/js/453.207c92a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ce8f65a.css",
-    "static/js/main.9306a0d4.js"
+    "static/css/main.1af6d845.css",
+    "static/js/main.0cf3e37b.js"
   ]
 }
